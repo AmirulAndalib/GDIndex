@@ -7,7 +7,7 @@
 		"@sagi.io/workers-jwt": "^0.0.10",
 		"buffer": "^6.0.2",
 		"mime": "^2.4.6",
-		"path-to-regexp": "^6.2.0"
+		"path-to-regexp": "^8.4.2"
 	},
 	"devDependencies": {
 		"bili": "<5",
